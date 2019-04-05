@@ -2,4 +2,4 @@
 
 Working with Trailhead.
 
-Creating merge conflicts example
+Creating merge conflicts example 2
